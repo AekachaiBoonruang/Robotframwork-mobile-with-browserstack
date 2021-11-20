@@ -2,8 +2,8 @@
 Library           AppiumLibrary
  
 *** Variables ***
-${BSUser}   napat6
-${AccessKey}   MzezCTDqnSgAHaxMEicH
+${BSUser}   get from github secreat key
+${AccessKey}   get from github secreat key
 ${RemoteUrl}   http://${BSUser}:${AccessKey}@hub.browserstack.com/wd/hub
 ${DeviceName}   Google Pixel 3
 
